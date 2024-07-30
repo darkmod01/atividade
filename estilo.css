@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body{
+    background-color: rgb(214, 181, 181);
+}
+
+
+.fonte{
+    font-size: 20px;
+font color: #000;
+font-family: "Lato", sans-serif;
+}
+h2{
+    text-align: center;
+}
+.figura{
+   
+}
+h1{
+    text-align: center;
+    background-color:rgb(10, 11, 30) ;
+    color: aliceblue;
+    size: 1px;
+}
+.moto{
+    font-size: 80px;
+}
